@@ -8,3 +8,4 @@ It's a initiation of algorigramme and pseudo code.
 - [Looping Triangle "FR"](./looping-triangle/README.md)
 - [Fizzbuzz "FR"](./fizzbuzz/README.md)
 - [Chessboard "FR"](./chessboard/README.md)
+- [Minimum "FR"](./minimum/README.md)
