@@ -1,0 +1,24 @@
+{
+  "name": "katajs",
+  "version": "1.0.0",
+  "description": "This repository gathered all training basics algo JS. It's a initiation of algorigramme and pseudo code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NelsonPhilippe/KataJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NelsonPhilippe/KataJS/issues"
+  },
+  "homepage": "https://github.com/NelsonPhilippe/KataJS#readme",
+  "dependencies": {
+    "c8": "^7.12.0",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
